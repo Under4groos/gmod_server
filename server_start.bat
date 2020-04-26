@@ -1,0 +1,1 @@
+start /high srcds.exe -console -game DADADAD -port 27015 -maxplayers 24 +host_workshop_collection 1920172283 +map gm_flatgrass
